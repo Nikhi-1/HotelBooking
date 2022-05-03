@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name":"Kamal Hotel",
+    "contact":"7744987886",
+    "location":"Nagpur , Maharastra",
+    "features":["Free wifi" , "Cabs available"],
+    "rating" : 5
+  },
+  {
+    "id": 2,
+    "name":"Baba Inn",
+    "contact":"4477876887",
+    "location":"Mumbai , Maharastra",
+    "features":["Free wifi" , "Free brunch"],
+    "rating" : 3
+  },
+  {
+    "id": 3,
+    "name":"Khaanji Hotel",
+    "contact":"8923674512",
+    "location":"Delhi NCR ",
+    "features":["Honeymoon" , "Free brunch"],
+    "rating" : 3
+  },
+  {
+    "id": 4,
+    "name":"Gandhi Inn",
+    "contact":"4477876887",
+    "location":"Mumbai , Maharastra",
+    "features":["Free wifi" , "Beach View"],
+    "rating" : 4
+  },
+  {
+    "id": 5,
+    "name":"Taj Hotels",
+    "contact":"4477876887",
+    "location":"Mumbai , Maharastra",
+    "features":["Cabs Available" , "Free brunch"],
+    "rating" : 4
+  },
+  {
+    "id": 6,
+    "name":"Hotel Goa",
+    "contact":"4477876887",
+    "location":"Mumbai , Maharastra",
+    "features":["Beach View" , "Free brunch"],
+    "rating" : 3
+  }
+]
