@@ -1,50 +1,112 @@
 [
   {
     "id": 1,
-    "name":"Kamal Hotel",
-    "contact":"7744987886",
-    "location":"Nagpur , Maharastra",
-    "features":["Free wifi" , "Cabs available"],
-    "rating" : 5
+    "name":"The Bluebell Middlesbrough",
+    "contact":"01642 593939",
+    "location":" Acklam Rd, Middlesbrough TS5 7HL",
+    "features":["Bed & Breakfast" , "Free Wi-Fi" , "Child friendly"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"52",
+    "rating" : 3.9
   },
   {
     "id": 2,
-    "name":"Baba Inn",
-    "contact":"4477876887",
-    "location":"Mumbai , Maharastra",
-    "features":["Free wifi" , "Free brunch"],
-    "rating" : 3
+    "name":"Trinity Guest House",
+    "contact":"01429 277770",
+    "location":"Teesside, 5 Church St, Seaton Carew, Hartlepool TS25 1BX",
+    "features":["Smoke-free" , "Free breakfast"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"114",
+    "rating" : 4.2
   },
   {
     "id": 3,
-    "name":"Khaanji Hotel",
-    "contact":"8923674512",
-    "location":"Delhi NCR ",
-    "features":["Honeymoon" , "Free brunch"],
-    "rating" : 3
+    "name":"Tees Valley Apartments",
+    "contact":" 01642 880030",
+    "location":" 323 Linthorpe Rd, Middlesbrough TS1 4AL",
+    "features":["Kitchens in some rooms" , "Free Wi-Fi"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"80",
+    "rating" : 3.6
   },
   {
     "id": 4,
-    "name":"Gandhi Inn",
-    "contact":"4477876887",
-    "location":"Mumbai , Maharastra",
-    "features":["Free wifi" , "Beach View"],
-    "rating" : 4
+    "name":"Aarondale Guest House",
+    "contact":"01429 868868",
+    "location":"46-48 Station Ln, Seaton Carew, Hartlepool TS25 1BG",
+    "features":["Free wifi" , "Beach access"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"56",
+    "rating" : 4.2
   },
   {
     "id": 5,
-    "name":"Taj Hotels",
-    "contact":"4477876887",
-    "location":"Mumbai , Maharastra",
-    "features":["Cabs Available" , "Free brunch"],
-    "rating" : 4
+    "name":"Jurys Inn Middlesbrough",
+    "contact":" 01642 232000",
+    "location":"Fry St, Middlesbrough TS1 1JH",
+    "features":["Paid breakfast" , "Indoor Pool" , "Room service"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"125",
+    "rating" : 4.2
   },
   {
     "id": 6,
-    "name":"Hotel Goa",
-    "contact":"4477876887",
-    "location":"Mumbai , Maharastra",
-    "features":["Beach View" , "Free brunch"],
-    "rating" : 3
-  }
+    "name":"Royal Oak Hotel",
+    "contact":" 01642 722361",
+    "location":"123 High St, Great Ayton, Middlesbrough TS9 6BW",
+    "features":["Pet-friendly" , "Child friendly"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"89",
+    "rating" : 4.5
+  },
+  {
+    "id": 7,
+    "name":"Parkwood Hotel",
+    "contact":"01642 587933",
+    "location":"64-66 Darlington Rd, Hartburn, Stockton-on-Tees TS18 5ER",
+    "features":["Free WiFi" , "Smoke-Free"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"89",
+    "rating" : 4.2
+  },
+  {
+    "id": 8,
+    "name":"The Windmill Hotel",
+    "contact":" 01429 267592",
+    "location":" Hartlepool TS27 3HN",
+    "features":["Free Wifi" , "Restaurant"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"50",
+    "rating" : 4.5
+  },
+  {
+    "id": 9,
+    "name":"The Staincliffe Hotel",
+    "contact":"07883 710926",
+    "location":"The Clf, Seaton Carew, Hartlepool TS25 1AB",
+    "features":["Ac Room" , "Free brunch"],
+    "lattitude":"54.574227",
+    "longitude":"-1.234956",
+    "amount":"60",
+    "rating" : 3.6
+  },{
+  "id": 10,
+  "name":"Wynyard Hall",
+  "contact":"01740 644811",
+  "location":"Wynyard, Stockton-on-Tees, Billingham TS22 5NF",
+  "features":["Ac Room" , "Free Parking Available"],
+  "lattitude":"54.574227",
+  "longitude":"-1.234956",
+  "amount":"100",
+  "rating" : 4
+}
+
 ]
